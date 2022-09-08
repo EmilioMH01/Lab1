@@ -1,6 +1,6 @@
 import pandas as pd
 import pandas_datareader.data as web
-import function as get_adj_closes
+import functions as get_adj_closes
 
 historicos = pd.read_csv('Lab_1/NAFTRAC_20220729.csv', skiprows=2)
 historicos.head(5)
