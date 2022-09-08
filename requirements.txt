@@ -1,1 +1,14 @@
+# -- --------------------------------------------------------------------------------------------------- -- #
+# -- project: Poder responder la pregunta ¿Qué estrategia de inversión propondrías si tu trabajo fuera invertir 1 Millón de pesos?
+Hacer una Inversión Pasiva del capital, comprando el 100% del capital de títulos de un ETF que replica al mercado de renta variable mexicano S&P/BMV IPC que es el NAFTRAC. Pero por otro lado, puedes hacer una Inversión Activa del capital, al crear un portafolio que tenga los mismos activos que el ETF y haciendo el rebalanceo
+# -- script: requirements.txt : text file with the required libraries for the project                    -- #
+# -- author: EmilioMH01                                                                       -- #
+# -- license: GPL-3.0 License                                                                            -- #
+# -- repository: https://github.com/EmilioMH01/Lab1                                                                     -- #
+# -- --------------------------------------------------------------------------------------------------- -- #
 
+pandas>=1.1.0
+numpy>=1.19.1
+jupyter>=1.0.0
+chart_studio>=1.1
+plotly>=4.14
